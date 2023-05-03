@@ -36,5 +36,5 @@ gradle-app.setting
 .externalNativeBuild
 .cxx
 local.properties
-/build/
-
+/build/*
+/.idea/*
